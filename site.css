@@ -1,8 +1,6 @@
 h2{
     color: blue;
 }
-table{
-    border: 1;
-    border: radius 5px; ;
-    table-layout: auto;
-}
+table, th, td {
+    border: 1px solid black;
+  }
