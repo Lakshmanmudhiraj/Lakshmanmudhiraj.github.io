@@ -7,12 +7,14 @@
     transition: 0.3s;
 }
 .cardimg{
+    margin-left: auto;
+    margin-right: auto;
     width: 100%;
 
     
 }
 .cardbody{
     padding: 2px 16px;
-    
+
 }
 
